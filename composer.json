@@ -27,5 +27,6 @@
         "fix": [
             "php-cs-fixer --config-file='.php_cs' fix"
         ]
-    }
+    },
+    "abandoned": true
 }
